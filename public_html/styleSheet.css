@@ -81,6 +81,7 @@ tr:nth-child(even){
 .homepage-td{
     height: 50%;
     width: 50%;
+    background-color: white;
 }
 
 .homepage-tr{
